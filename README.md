@@ -483,3 +483,11 @@ The second dashboard focuses on customer value, retention and geographic distrib
 The strongest finding is the importance of **customer retention**. Repeat customers generated **96.78% of revenue**, while Champions and Loyal Customers accounted for approximately **68.46% of customer revenue**.
 
 The analysis suggests that retaining high-value customers, re-engaging At Risk customers and converting first-time purchasers into repeat buyers could provide significant commercial value.
+
+#### Sales Overview
+
+![Sales Overview](Sales%20Overview.png)
+
+#### Customer & Geographic Analysis
+
+![Customer Analysis](Customer%20Analysis.png)
