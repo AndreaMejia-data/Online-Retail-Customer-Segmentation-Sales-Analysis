@@ -443,6 +443,43 @@ Online-Retail-Customer-Segmentation-Sales-Analysis/
 
 This project demonstrates an end-to-end analytical workflow using **Python and SQL** to transform more than one million raw retail transaction records into actionable business insights.
 
+---
+
+## 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was developed to transform the analysis into clear, business-focused insights. The report contains two dashboard pages covering overall sales performance and customer behaviour.
+
+### Sales Overview
+
+The Sales Overview dashboard tracks key commercial KPIs and highlights revenue trends across products, countries and time.
+
+**Key KPIs**
+- Total Revenue: £17.37M
+- Total Customers: 5,878
+- Total Orders: 36,969
+- Average Order Value: £469.98
+
+**Visualisations**
+- Monthly Revenue Trend
+- Top 10 Countries by Revenue
+- Top 10 Products by Revenue
+
+### Customer & Geographic Analysis
+
+The second dashboard focuses on customer value, retention and geographic distribution.
+
+**Key KPIs**
+- Total Customers: 5,878
+- Revenue per Customer: £2.96K
+- Repeat Customer Rate: 72.39%
+- Average Orders per Customer: 6.29
+
+**Visualisations**
+- Top 10 Countries by Customers
+- Top 10 Customers by Revenue
+
+### Dashboard Preview
+
 The strongest finding is the importance of **customer retention**. Repeat customers generated **96.78% of revenue**, while Champions and Loyal Customers accounted for approximately **68.46% of customer revenue**.
 
 The analysis suggests that retaining high-value customers, re-engaging At Risk customers and converting first-time purchasers into repeat buyers could provide significant commercial value.
